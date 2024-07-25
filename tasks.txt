@@ -1,0 +1,4 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, NoAssigned to: admin, Task: Register Users with task_manager.py, Due date: 10 Oct 2019, 20 Oct 2019
+Ruben, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019,  No
+Ruben, Testing code, testing to see if date and time import is working, 2024-04-05, 2023, y
